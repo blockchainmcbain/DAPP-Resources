@@ -12,11 +12,11 @@ Meetups
 
 Non-Profits
 
-##Conferences
+## Conferences
 
 Development Focused
 
-##Tutorials and Courses
+## Tutorials and Courses
 
 Beginner
 
@@ -27,10 +27,17 @@ Advanced
 ## Dev Tools
 
   [Remix](https://remix.ethereum.org/)
+
   [Truffle](https://github.com/trufflesuite/truffle_)
+
   [Parity](https://github.com/paritytech/parity)
+
   [Mist](https://github.com/ethereum/mist/)
+
   [Geth](https://github.com/ethereum/go-ethereum)
+
   [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
+
   [web3.js](https://github.com/ethereum/web3.js/)
+
   [Solium](https://github.com/duaraghav8/Solium)
