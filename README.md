@@ -1,6 +1,6 @@
-# FREE DAPP Bootcamp
+# Free DAPP Bootcamp
 
-This repo should serve as a beginning to end guide to becoming a DAPP Developer. 
+This repo should serve as a beginning to end guide to becoming a DAPP Developer.
 
 
 ## CryptoZombies
