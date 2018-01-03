@@ -8,12 +8,14 @@ This tutorial is a great starting point for anyone:
   [CryptoZombies](https://cryptozombies.io/)
 
 ## Online Tutorials
+  [BlockGeeks](https://blockgeeks.com/)
 
-Beginner
+  [Udemy Courses](https://www.udemy.com/courses/search/?q=Blockchain&src=ukw) *Curation Needed*
 
-Intermediate
 
-Advanced
+
+## In Person Education
+
 
 ## Dev Tools
   [Ethereum Dapp Developer Resources](https://github.com/ethereum/wiki/blob/master/Dapp-Developer-Resources.md)
@@ -39,6 +41,7 @@ Advanced
 ## Conferences
 
 ## Hackathons
+  [EthDenver](https://ethdenver.com/) Feb 16th-18th, Denver
 
 ## Meetups
 
