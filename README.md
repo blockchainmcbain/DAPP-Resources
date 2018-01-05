@@ -1,3 +1,4 @@
+
 # Free DAPP Bootcamp
 
 This repo should serve as a beginning to end guide to becoming a DAPP Developer. (PR's encouraged!!)
@@ -37,6 +38,7 @@ This tutorial is a great starting point for anyone:
   [Solium](https://github.com/duaraghav8/Solium)
 
 ## Community Channels
+  [Slack Channels](https://csvshare.com/view/Vk_tfwlTX)
 
 ## Conferences
 
